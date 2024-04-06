@@ -2,6 +2,9 @@
 
 Welcome to the User API documentation. This API allows you to manage users within your application, including user registration, authentication, fetching user details, and updating user information.
 
+### To clone the repository, use the following command::
+git clone https://github.com/Pratham22/voosh_backend.git
+
 ## Authentication
 
 Authentication in this API is handled using JSON Web Tokens (JWT). When making requests to endpoints that require authentication, you need to include a valid JWT token in the request headers.
